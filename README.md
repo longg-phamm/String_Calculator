@@ -1,4 +1,4 @@
-# String_Calculator
+# String Calculator
 
 Program to calculate the sum of numbers in a string with custom delimiters. 
 
