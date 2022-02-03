@@ -8,5 +8,5 @@ Program to calculate the sum of numbers in a string with custom delimiters.
 * Do not support negative numbers
 
 ## File Speficiation
-* String_calculator.py: string calculator with option to custom 1 delimiter
-* String_calculator_advance.py: string calculator with option to custom many delimiters and with different size
+* string_calculator.py: string calculator with option to custom 1 delimiter
+* string_calculator_advance.py: string calculator with option to custom many delimiters and with different size
